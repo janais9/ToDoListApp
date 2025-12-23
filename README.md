@@ -54,10 +54,11 @@ with complete **CRUD functionality** and a styled user interface using **Bootstr
 - **List Status:**  
  If Not Completed:
 ![App Screenshot](https://raw.githubusercontent.com/janais9/ToDoListApp/main/3.png)
+![App Screenshot](https://raw.githubusercontent.com/janais9/ToDoListApp/main/5.png)
 
+- **List Eidit:**  
  If Completed:
 ![App Screenshot](https://raw.githubusercontent.com/janais9/ToDoListApp/main/4.png)
-![App Screenshot](https://raw.githubusercontent.com/janais9/ToDoListApp/main/5.png)
 
 - **View List :**  
 list Details :
@@ -67,5 +68,14 @@ list Details :
   Delete List :
 ![App Screenshot](https://raw.githubusercontent.com/janais9/ToDoListApp/main/7.png)
 
+---
+ ## 🚀 Try It!!
 
-
+1.  Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ToDoListApp.git
+```
+2. run and write :
+ ```bash
+   https://localhost:7167/Todos
+```
