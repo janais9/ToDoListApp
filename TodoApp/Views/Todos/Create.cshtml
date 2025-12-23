@@ -1,0 +1,66 @@
+﻿@model TodoApp.Models.Todo
+
+@{
+    ViewData["Title"] = "Create ";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">➕ Add New Todo</h4>
+                </div>
+
+                <div class="card-body">
+                    <form asp-action="Create">
+
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                        <!-- Title -->
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label fw-bold"></label>
+                            <input asp-for="Title" class="form-control" placeholder="Enter task title..." />
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+
+                        <!-- Is Completed -->
+                        <div class="form-check mb-3">
+                            <input class="form-check-input" asp-for="IsCompleted" />
+                            <label class="form-check-label fw-bold">
+                                @Html.DisplayNameFor(model => model.IsCompleted)
+                            </label>
+                        </div>
+
+                        <!-- Created At -->
+                        <div class="mb-3">
+                            <label asp-for="CreatedAt" class="form-label fw-bold"></label>
+                            <input asp-for="CreatedAt" class="form-control" type="datetime-local" />
+                            <span asp-validation-for="CreatedAt" class="text-danger"></span>
+                        </div>
+
+                        <!-- Buttons -->
+                        <div class="d-flex justify-content-between">
+                            <button type="submit" class="btn btn-success">
+                                💾 Save
+                            </button>
+
+                            <a asp-action="Index" class="btn btn-outline-secondary">
+                                ⬅ Back
+                            </a>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,35 @@
+﻿@model TodoApp.Models.Todo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-4">
+    <div class="card shadow">
+        <div class="card-header bg-info text-white">
+            <h4>📋 Todo Details</h4>
+        </div>
+
+        <div class="card-body">
+            <p><strong>Title:</strong> @Model.Title</p>
+
+            <p>
+                <strong>Status:</strong>
+                @if (Model.IsCompleted)
+                {
+                    <span class="badge bg-success">Completed</span>
+                }
+                else
+                {
+                    <span class="badge bg-secondary">Pending</span>
+                }
+            </p>
+
+            <p><strong>Created At:</strong> @Model.CreatedAt</p>
+
+            <a asp-action="Index" class="btn btn-secondary">
+                🔙 Back
+            </a>
+        </div>
+    </div>
+</div>

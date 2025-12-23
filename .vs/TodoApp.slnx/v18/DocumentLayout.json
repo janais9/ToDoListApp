@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jana-\\source\\repos\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\views\\todos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\views\\todos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\views\\todos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\views\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\migrations\\20251223191239_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\migrations\\20251223191239_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\models\\todocontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todocontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|c:\\users\\jana-\\source\\repos\\todoapp\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5480FAA2-4085-4140-B92A-C61C23E9C67A}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Delete.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T20:03:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Details.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Details.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todos\\Details.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T20:01:59.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Edit.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T20:00:48.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Create.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todos\\Create.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T19:55:50.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Todos\\Index.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T19:54:28.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T19:54:11.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T19:52:21.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:27:33.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\appsettings.json",
+              "RelativeToolTip": "TodoApp\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T19:21:23.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:19:21.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251223191239_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Migrations\\20251223191239_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Migrations\\20251223191239_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Migrations\\20251223191239_InitialCreate.cs",
+              "RelativeToolTip": "TodoApp\\Migrations\\20251223191239_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:12:39.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Models\\TodoContextFactory.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\TodoContextFactory.cs",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Models\\TodoContextFactory.cs",
+              "RelativeToolTip": "TodoApp\\Models\\TodoContextFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:11:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Models\\TodoContext.cs",
+              "RelativeToolTip": "TodoApp\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:59:19.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\jana-\\source\\repos\\TodoApp\\TodoApp\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoApp\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:57:08.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
